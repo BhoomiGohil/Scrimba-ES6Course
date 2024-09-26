@@ -157,13 +157,13 @@ console.log(example6);
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/javascript-scrimba-introduction-to-ES6.git
+git clone https://github.com/BhoomiGohil/Scrimba-ES6Course.git
 ```
 
 ### 2. Navigate to the project folder:
 
 ```bash
-cd javascript-scrimba-introduction-to-ES6
+cd Scrimba-ES6Course
 ```
 
 ### 3. Run the JavaScript file in node environment:
